@@ -1,0 +1,1 @@
+module.exports = $ => $.st($.pa('asset'));
