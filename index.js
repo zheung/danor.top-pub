@@ -1,1 +1,1 @@
-module.exports = $ => $.st($.pa('asset'));
+module.exports = async $ => await $.st(await $.pa('asset'));
