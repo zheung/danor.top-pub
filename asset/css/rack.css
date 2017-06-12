@@ -24,7 +24,7 @@
 /*-------flex-wrap-------*/
 .wpn { flex-wrap: nowrap; }
 .wpw { flex-wrap: wrap; }
-.wpwr { flex-wrap: wrap-reverse; }
+.wpr { flex-wrap: wrap-reverse; }
 
 /*-------align-content-------*/
 .acs { align-content: flex-start; }
@@ -34,21 +34,13 @@
 .aca { align-content: space-around; }
 .ach { align-content: stretch; }
 
-/*-------color-------*/
-.clrBack { color: #293134; }
-.blrBack { background-color: #293134; }
-
-.clrFont { color: #E0E2E4; }
-.blrFont { background-color: #E0E2E4; }
-
-.clrFontDark { color: #557799; }
-.blrFontDark { background-color: #557799; }
-
-.clrNavi { color: #34495e; }
-.blrNavi { background-color: #34495e; }
-
-.clrTabs { color: #293134; }
-.blrTabs { background-color: #293134; }
+/*-------align-self-------*/
+.ass { align-self: flex-start; }
+.ase { align-self: flex-end; }
+.asc { align-self: center; }
+.asb { align-self: space-between; }
+.asa { align-self: space-around; }
+.ash { align-self: stretch; }
 
 /*-------small-------*/
 .hr { border-bottom: 1px solid #E0E2E4; }
