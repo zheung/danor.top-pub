@@ -1,5 +1,6 @@
 .flex { display: flex; }
 .iflex { display: inline-flex; }
+.block { display: block; }
 
 /*-------flex-direction-------*/
 .drr { flex-direction: row; }
